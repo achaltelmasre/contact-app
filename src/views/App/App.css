@@ -1,0 +1,12 @@
+.text-center{
+    text-align: center;
+}
+
+.search{
+   display: block; 
+   margin: 0 auto;
+   font-size: 40px;
+   padding: 5px 20px;
+   border-radius: 40px;
+
+}

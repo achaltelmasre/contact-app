@@ -4,7 +4,7 @@ export const phonebook = [
         mobile: 7798756791
     },
     {
-        name : "Kiyara",
+        name : "kiyara",
         mobile: 9850622046
     },
     {
@@ -16,7 +16,7 @@ export const phonebook = [
         mobile: 9767973193
     },
     {
-        name : "Jayshari",
+        name: "Jayshari",
         mobile: 5596489314
     },
 ]
