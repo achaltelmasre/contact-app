@@ -6,7 +6,7 @@ function ContactCard({name, mobile}) {
     
         <div className='contact-card'>
             <h1>{name}</h1>
-            <span>{mobile}</span>
+            <p>{mobile}</p>
         </div>
      
     )

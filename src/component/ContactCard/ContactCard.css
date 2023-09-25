@@ -1,9 +1,14 @@
 .contact-card{
-    width: 400px;
-    padding: 10px;
+    width: 300px;
+    padding: 20px 30px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 20px;
     margin: 10px;
-    background-color: rgb(247, 218, 203);
+    background-color: rgb(249, 222, 207);
     margin: 15px auto;
+   box-shadow: 0 0 5px 1px rgb(155, 16, 39);
+
+}
+p{
+    font-size: 35px;
 }

@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-center">Contact Book</h1>
+      <h1 className="text-center">Contact Book </h1>
 
       <input
         type="text"
@@ -33,7 +33,7 @@ function App() {
         onChange={(e) => {setSearchTeam(e.target.value) }}
       />
 
-      <div>
+      <div className='book'>
         {contacts.map((contact, index) => {
           const { name, mobile } = contact;
 

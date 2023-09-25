@@ -1,22 +1,42 @@
 export const phonebook = [
     {
         name : "Achal",
-        mobile: 7798756791
+        mobile: 779875791
     },
     {
-        name : "kiyara",
-        mobile: 9850622046
+        name : "❤️ Mom ❤️",
+        mobile: 800756625
     },
     {
-        name : "Aadi",
-        mobile: 9309221657
+        name : "❤️ Papa ❤️",
+        mobile: 779875731
     },
     {
-        name : "Sonali",
-        mobile: 9767973193
+        name : "❤️ Aadi ❤️",
+        mobile: 93092657
     },
     {
-        name: "Jayshari",
-        mobile: 5596489314
+        name : "💖 kiyara 💖",
+        mobile: 985022046
+    },
+    {
+        name : "🥰 Sonali 🥰",
+        mobile: 976773193
+    },
+    {
+        name: "😍 Jayshari 😍",
+        mobile: 559489314
+    },
+    {
+        name: "😊 Janvhi 😊 ",
+        mobile: 859489524
+    },
+    {
+        name: "😑 Gayatri 😑",
+        mobile: 959489314
+    },
+    {
+        name: "🤩 Aakansha  🤩",
+        mobile: 485526814
     },
 ]
